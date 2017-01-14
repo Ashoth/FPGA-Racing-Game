@@ -10,5 +10,7 @@ Components:
 VGA monitor, speaker, USB keyboard
 
 
+Video:
+https://youtu.be/mqfI2xpCRDE
 
 
